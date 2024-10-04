@@ -179,7 +179,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':  'lmsdb',
-        'HOST':'dbinside.chse0qya6glk.ap-south-1.rds.amazonaws.com',
+        'HOST':'dbinside.cjo2ke4q2za3.us-east-1.rds.amazonaws.com',
         'PORT':'3306',
         'USER':"admin",
         "PASSWORD":"Admin1234",
